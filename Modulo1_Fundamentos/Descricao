@@ -1,0 +1,12 @@
+Módulo 1 - Fundamentos
+
+1) Notebook 1 - Mall Customers
+  - Carregando as Bibliotecas
+  - Criando as Funções
+  - Trabalhando com o Dataset
+  - Análise Exploratória dos Dados
+  - Verificando anômalias (outliers)
+  - Explorando os dados
+  - Aplicando a codificação para os dados
+  - Aplicando Label Encodering (manual / sklearn)
+  - Aplicando One Hot Encoding (manual / sklearn)
