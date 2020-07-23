@@ -10,3 +10,19 @@ Módulo 1 - Fundamentos
   - Aplicando a codificação para os dados
   - Aplicando Label Encodering (manual / sklearn)
   - Aplicando One Hot Encoding (manual / sklearn)
+
+2) Notebook 2 - HeadBrain
+- Carregando as Bibliotecas
+- Criando as Funções
+- Preparando o Modelo
+- Aplicando a Regressão Linear
+  - Manual
+	- Sklearn
+- Aplicando a Regressão Linear em um Dataset
+	- Trabalhando com o Dataset
+	- Análise Exploratória dos Dados
+	- Verificando Anomalias
+	- Explorando os Dados
+	- Aplicando a Regressão Linear
+- Informações da Regressão Linear
+
