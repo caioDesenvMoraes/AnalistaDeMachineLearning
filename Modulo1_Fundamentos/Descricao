@@ -5,11 +5,12 @@ Módulo 1 - Fundamentos
   - Criando as Funções
   - Trabalhando com o Dataset
   - Análise Exploratória dos Dados
-  - Verificando anômalias (outliers)
+  - Verificando Anomalias (Outliers)
   - Explorando os dados
   - Aplicando a codificação para os dados
   - Aplicando Label Encodering (manual / sklearn)
   - Aplicando One Hot Encoding (manual / sklearn)
+  - Informações Sobre Label Encodering e One Hot Encoding
 
 2) Notebook 2 - HeadBrain
 - Carregando as Bibliotecas
@@ -21,8 +22,17 @@ Módulo 1 - Fundamentos
 - Aplicando a Regressão Linear em um Dataset
 	- Trabalhando com o Dataset
 	- Análise Exploratória dos Dados
-	- Verificando Anomalias
+	- Verificando Anomalias (Outliers)
 	- Explorando os Dados
 	- Aplicando a Regressão Linear
 - Informações da Regressão Linear
 
+3) Trabalho Prático 1 - Data
+- Carregando as Bibliotecas
+- Criando as funções
+- Trabalhando com o Dataset
+- Análise Exploratória dos Dados
+- Verificando Anomalias (Outliers)
+- Explorando os Dados
+- Aplicando a Regressão Linear
+- Questionário
