@@ -36,3 +36,17 @@ Módulo 1 - Fundamentos
 - Explorando os Dados
 - Aplicando a Regressão Linear
 - Questionário
+
+4) Notebook 3 - Character Predictions
+- Carregando as Bibliotecas
+- Criando as Funções
+- Trabalhando com o Dataset
+- Análise Exploratória dos Dados
+- Verificando Anomalias
+- Explorando os Dados
+- Preparando o Dataset
+- Aplicando os Modelos de Classificação
+- Aplicando os Modelos de Classificação Escolhidos
+- SVM
+- Random Florest
+- Comparando os Modelos
