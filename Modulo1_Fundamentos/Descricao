@@ -50,3 +50,16 @@ Módulo 1 - Fundamentos
 - SVM
 - Random Florest
 - Comparando os Modelos
+
+5) Notebook 4 - Data
+- Carregando as Bibliotecas
+- Criando as Funções
+- Trabalhando com o Dataset
+- Análise Exploratória dos Dados
+- Verificando Anomalias
+- Explorando os Dados
+- Preparando o Dataset
+- Aplicando o Modelo de Classificação SVM
+- Modificando o Dataset
+- Aplicando o Modelo de Classificação SVM Novamente
+- Comparando os Modelos
